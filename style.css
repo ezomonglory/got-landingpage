@@ -7,7 +7,6 @@ html, body {
     margin: 0;
 }
 
-
 .page {
     background-image:radial-gradient(rgb(214, 211, 211) 1%, rgb(27, 27, 27) 20%, black );
     position: relative;
